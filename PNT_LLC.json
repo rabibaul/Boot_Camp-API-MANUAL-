@@ -1,0 +1,162 @@
+{
+  "EmployeeDetails": [
+    {
+      "name": "Rabiul",
+      "address": "new york",
+      "ID": "556NY",
+      "salay": 87483.99,
+      "homePhoe": 2345678,
+      "phoneNumbers": [
+        3456789,
+        87654,
+        98764
+      ]
+    },
+    {
+      "name": "Hasan",
+      "address": "new york",
+      "ID": "996NY",
+      "salay": 879993.99,
+      "homePhoe": 23885678,
+      "phoneNumbers": [
+        3456789,
+        87654
+      ]
+    },
+    {
+      "id": 1011,
+      "lastName": "Rabiul",
+      "firstName": "Hasan",
+      "extension": "R1234",
+      "email": "email1234@gmail.com",
+      "officeCode": "null",
+      "reportsTo": "null",
+      "jobTitle": "cashier"
+    },
+    {
+      "id": 1111,
+      "lastName": "Rabiul",
+      "firstName": "Hasan",
+      "extension": "R1234",
+      "email": "email1234@gmail.com",
+      "officeCode": "null",
+      "reportsTo": "null",
+      "jobTitle": "cashier"
+    }
+  ],
+  "CustomersDetails": [
+    {
+      "name": "Halima",
+      "address": "new york",
+      "ID": "123NY",
+      "homePhoe": 2345678,
+      "phoneNumbers": [
+        3456789,
+        87654,
+        98764
+      ]
+    },
+    {
+      "name": "Mon",
+      "address": "new york",
+      "ID": "432NY",
+      "homePhoe": 2380856078,
+      "phoneNumbers": [
+        34567089,
+        876504
+      ]
+    },
+    {
+      "id": 1010,
+      "name": "Jamila",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1011
+    },
+    {
+      "id": 1012,
+      "name": "Jamila",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1013,
+      "name": "Jamila",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1015,
+      "name": "Jannatul",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1016,
+      "name": "",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1017,
+      "name": "**66&&",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1018,
+      "name": "Rabiul",
+      "Phone": 2345678
+    },
+    {
+      "id": 1029,
+      "name": "Rabiul"
+    },
+    {
+      "id": 1020,
+      "name": "Jannatul",
+      "address": "new york",
+      "Phone": 2345678
+    },
+    {
+      "id": 1021,
+      "name": "Rabiul",
+      "address": "new york",
+      "Phone": 2345678
+    }
+  ],
+  "EmployeeSalary": [
+    {
+      "name": "Rabiul",
+      "address": "new york",
+      "ID": "556NY",
+      "salay": 87483.99,
+      "homePhoe": 2345678,
+      "phoneNumbers": [
+        3456789,
+        87654,
+        98764
+      ]
+    },
+    {
+      "name": "Hasan",
+      "address": "new york",
+      "ID": "996NY",
+      "salay": 879993.99,
+      "homePhoe": 23885678,
+      "phoneNumbers": [
+        3456789,
+        87654
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "Lamine",
+      "address": "TX",
+      "salary": 250000,
+      "Phone": 5679874321
+    }
+  ]
+}

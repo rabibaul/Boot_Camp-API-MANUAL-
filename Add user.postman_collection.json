@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "102c5672-acd6-42df-ad92-7e3c5f15870a",
+		"name": "Add user",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Scenario_01: Success Scenario",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
